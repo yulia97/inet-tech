@@ -1,0 +1,2 @@
+[2018-03-18 11:01:29] name.INFO: Successfull login\n {"login":"admin","password":"pa$$w0rd"} []
+[2018-03-18 11:01:33] name.NOTICE: Failed login\n {"login":"adfads","password":"gg"} []

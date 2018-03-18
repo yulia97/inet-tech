@@ -1,0 +1,15 @@
+{
+    "name": "ryzhkova/hw1",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Yulia Ryzhkova",
+            "email": "username@server.domain"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "monolog/monolog": "^1.23",
+        "twig/twig": "^2.0"
+    }
+}
