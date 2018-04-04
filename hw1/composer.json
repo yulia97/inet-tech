@@ -7,6 +7,11 @@
             "email": "username@server.domain"
         }
     ],
+    "autoload": {
+	"psr-4": {
+	    "Core\\" : "src/Core/"
+	}
+    },
     "minimum-stability": "stable",
     "require": {
         "monolog/monolog": "^1.23",
